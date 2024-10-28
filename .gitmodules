@@ -1,0 +1,3 @@
+[submodule "Python-Visualization"]
+	path = Python-Visualization
+	url = https://github.com/bassem-mostafa/Python-Visualization.git
